@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xooreemoh.cygra.wang/sitemap.xml
